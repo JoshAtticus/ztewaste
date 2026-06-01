@@ -20,4 +20,4 @@ Should work with other Unisoc T760 ZTE devices, will likely work with other Unis
 - Battery charge cycles (date & time device started charging, fast or normal charging, time charging in m but sometimes just a random number, battery percentage when charging started and ended, minimum battery voltage, maximum battery voltage, minimum battery current, maximum battery current, minimum temperature and maximum temperature in celsius)
 
 ## Writeup
-Writeup available here: [https://blog.joshattic.us/2026-05-31-your-zte-phone-is-spying-on-you](https://blog.joshattic.us/2026-05-31-your-zte-phone-is-spying-on-you)
+Writeup available here: [https://blog.joshattic.us/posts/2026-05-31-your-zte-phone-is-spying-on-you](https://blog.joshattic.us/posts/2026-05-31-your-zte-phone-is-spying-on-you)

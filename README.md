@@ -1,6 +1,9 @@
 # ZTE Diagnostics Dump Proof of Concept
 Extract a concerning amount of user information from Unisoc ZTE devices using CVE-2022-38694. 
 
+> [!CAUTION]
+> Please **do not permalink here!!!!!** The repo name is almost certainly going to change in the future
+
 ## Usage
 1. Download appropriate Unisoc BROM tools from [https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases)
 2. Extract contents of downloaded zip to the root of the `unisoc_brom` folder

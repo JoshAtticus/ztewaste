@@ -5,7 +5,7 @@ Extract a concerning amount of user information from Unisoc ZTE devices using CV
 > Please **do not permalink here!!!!!** The repo name is almost certainly going to change in the future. Instead, provide a link to my writeup on my blog.
 
 ## Usage
-1. Download appropriate Unisoc BROM tools from [https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases)
+1. Download appropriate Unisoc BROM tools from [https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases). For the ZTE Blade A73 5G/Optus X Pro 5G specifically, as well as other Unisoc T760 devices, use ums9620_ZTE_universal.zip
 2. Extract contents of downloaded zip to the root of the `unisoc_brom` folder
 3. Run diagdump_poc.bat and follow instructions
 
